@@ -1,0 +1,25 @@
+{
+  "name": "ml224cv-examination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "",
+    "production": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1dv612/ml224cv-examination.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1dv612/ml224cv-examination/issues"
+  },
+  "homepage": "https://github.com/1dv612/ml224cv-examination#readme"
+}

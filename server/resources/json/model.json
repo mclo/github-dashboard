@@ -1,0 +1,14 @@
+{
+  "api": "/api",
+  "auth": "/api/auth",
+  "login": "/api/auth/login",
+  "logout": "/api/auth/logout",
+  "organizations": "/api/orgs",
+  "repos": "/api/repos/:owner",
+  "issues": "/api/issues/:owner/:repo",
+  "releases": "/api/repos/:owner/:repo/releases",
+  "subscribe": "/api/repos/:owner/:repo/subscribe",
+  "update_subscription": "/api/repos/:owner/:repo/hooks/:hook_id",
+  "notifications": "/api/notifications",
+  "user": "/api/user"
+}

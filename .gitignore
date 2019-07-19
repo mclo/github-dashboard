@@ -1,0 +1,10 @@
+.vagrant
+.env
+.env.production
+.ngrok2
+server/.env
+server/config/service_account.json
+node_modules
+server/node_modules
+client/node_modules
+client/src/config.js
